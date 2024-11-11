@@ -135,4 +135,4 @@ The benefits include simplified management, enhanced reliability and support, fa
 
 ### How can I get training for Operator Connect? 
 
-Eccentrix offers (comprehensive training programs](https://www.eccentrix.ca/)  for Microsoft Teams and Operator Connect. Our courses are designed to prepare you thoroughly for implementing and managing these technologies. Visit Eccentrix for more information and to enroll in our training programs. 
+Eccentrix offers [comprehensive training programs](https://www.eccentrix.ca/) for Microsoft Teams and Operator Connect. Our courses are designed to prepare you thoroughly for implementing and managing these technologies. Visit Eccentrix for more information and to enroll in our training programs. 
